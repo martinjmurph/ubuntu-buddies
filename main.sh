@@ -9,4 +9,4 @@ source $DIR/commands/exp.sh
 source $DIR/commands/dx.sh
 source $DIR/commands/local_copy.sh
 source $DIR/commands/site_search.sh
-source $DIR/commands/adaptive_help.sh 
+source $DIR/commands/buddies_help.sh 

@@ -1,4 +1,4 @@
-function adaptive_help() {
+function buddies_help() {
 	if [ "$1" == "hosts" ]; then
 		echo "==> hosts"
 		echo "Description: Simply lists all the available"
